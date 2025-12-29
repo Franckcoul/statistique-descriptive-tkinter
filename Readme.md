@@ -86,7 +86,7 @@ Elle est conçue pour un usage **académique, pédagogique et exploratoire**, no
 ```
 statistique-descriptive-tkinter/
 │
-├── main.py                  # Application principale
+├── statapp.py               # Application principale
 ├── README.md                # Documentation du projet
 ├── requirements.txt         # Dépendances Python
 └── data/                    # (optionnel) Données d'exemple
@@ -149,7 +149,7 @@ pip install -r requirements.txt
 ## ▶️ Lancement de l’application
 
 ```bash
-python main.py
+python statapp.py
 ```
 
 ---
