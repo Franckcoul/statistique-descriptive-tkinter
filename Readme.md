@@ -118,7 +118,7 @@ Cette organisation respecte les principes **SOLID** et facilite les extensions f
 ### 1️⃣ Cloner le dépôt
 
 ```bash
-git clone https://github.com/votre-utilisateur/statistique-descriptive-tkinter.git
+git clone https://github.com/Franckcoul/statistique-descriptive-tkinter.git
 cd statistique-descriptive-tkinter
 ```
 
